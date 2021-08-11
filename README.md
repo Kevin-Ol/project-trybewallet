@@ -1,4 +1,5 @@
 # Projeto Trybewallet
+![Trybewallet](https://user-images.githubusercontent.com/82068881/129070588-2f4b26ad-d573-4b24-bbaf-b7e79639aa62.png)
 
 ***
 Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-trybewallet/).
